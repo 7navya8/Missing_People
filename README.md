@@ -1,1 +1,2 @@
 # Missing_People
+This project is a real-time facial recognition system designed to assist in identifying missing individuals. Leveraging Python-based libraries like face_recognition and dlib, the backend integrates with a secure database to store and match facial data, while the frontend uses React to provide an intuitive interface for image uploads and match alerts. The system aims to create an impactful solution by combining technology and purpose, with modular workflows to support collaborative development and scalability.
